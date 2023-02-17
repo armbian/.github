@@ -20,4 +20,12 @@ Fully featured XFCE, Gnome or Cinnamon based desktop. 3D and video acceleration 
 Community support for: Budgie, i3, KDE plasma, Mate, Xmonad
 </td>
 </tr>
+<tr>
+<td colspan=3>
+<h3>Simple for compiling</h3>
+Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.
+
+Runs on Linux, Windows or Mac
+</td>
+</tr>
 </table>
