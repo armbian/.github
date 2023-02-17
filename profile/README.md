@@ -27,4 +27,9 @@ Fully featured XFCE, Gnome or Cinnamon based desktop. 3D and video acceleration 
 Community support for: Budgie, i3, KDE plasma, Mate, Xmonad
 </td>
 </tr>
+<tr>
+<td colspan=3>
+<h3 align=center><b>Custom Debian or Ubuntu images for custom hardware</b>
+</td>
+</tr>
 </table>
