@@ -6,7 +6,7 @@ Comes with powerful ZSH or standard BASH shell.
 Stable releases: Jammy, Bullseye. For developers: Bookworm, Lunar, Sid
 </td><td>
 <h3>Simple for compiling</h3>
-Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.
+Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.<br>&nbsp;
 <p><p>
 Runs on Linux, Windows or Mac<br>&nbsp;
 </td>
