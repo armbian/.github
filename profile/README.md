@@ -5,7 +5,7 @@
     <a href="https://www.armbian.com">
         <img src="https://raw.githubusercontent.com/armbian/.github/master/profile/tux-two.png" width="400" alt="Armbian Linux">
     </a><h1 align=center>Armbian</h1>
-<h3 align=center><a href=https://calendly.com/armbian/office-hours>Project office hours every Wednesday</a></h3><p align=center>(for community inquiries, not for technical consultation or technical support!)</p>
+<h3 align=center><a href=https://calendly.com/armbian/office-hours>Office hours every Wednesday</a></h3><p align=center>(for community inquiries, not for technical consultation or technical support!)</p>
 </td>
 </tr>
 <td>
