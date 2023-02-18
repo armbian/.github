@@ -6,6 +6,11 @@
         <img src="https://raw.githubusercontent.com/armbian/.github/master/profile/tux-two.png" width="400" alt="Armbian Linux">
     </a><h1 align=center>Armbian</h1>
 <h3 align=center><a href=https://calendly.com/armbian/office-hours>Office hours every Wednesday</a></h3><p align=center>(for community inquiries, not for technical consultation or technical support!)</p>
+
+<h3 align=center>Community chat</h3>
+<p align="center">
+<a href=http://discord.armbian.com/><img alt="Discord" src="https://img.shields.io/discord/854735915313659944?label=Discord&logo=discord&style=for-the-badge"></a>
+</p>
 </td>
 </tr>
 <td>
@@ -16,7 +21,7 @@ Comes with powerful ZSH or standard BASH shell.
 Stable releases: Jammy, Bullseye. For developers: Bookworm, Lunar, Sid
 </td><td>
 <h3>Simple for compiling</h3>
-<a href=https://github.com/armbian/build>Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support</a>.<br>&nbsp;
+Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.<br>&nbsp;
 <p><p>
 Runs on Linux, Windows or Mac<br>&nbsp;
 </td>
