@@ -18,11 +18,11 @@
 Lightweight Linux optimized for custom ARM / RISC-V or Intel hardware
 Comes with powerful ZSH or standard BASH shell.
 <p><p>
-Stable releases: Jammy, Bullseye. For developers: Bookworm, Lunar, Sid
+For production: Jammy, Bullseye. For developers: Bookworm, Lunar, Sid
 </td><td>
 <h3>Simple for compiling</h3>
 Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.<br>&nbsp;
-<p><p>
+<p>
 Runs on Linux, Windows or Mac<br>&nbsp;
 </td>
 <td>
