@@ -7,9 +7,8 @@
         <a href=https://calendly.com/armbian/office-hours>Office hours every Wednesday</a></h3><p align=center>(for community inquiries, not for technical consultation or technical support!)</p>
 
 <p align="center">
-<a href=https://fosstodon.org/@armbian><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109365956768424870?domain=https%3A%2F%2Ffosstodon.org&logo=mastodon&style=for-the-badge&label=Mastodon"></a>
-<a href=http://discord.armbian.com/><img alt="Discord" src="https://img.shields.io/discord/854735915313659944?label=Discord&logo=discord&style=for-the-badge"></a>
-<a href=https://liberapay.com/armbian><img alt="Liberapay patrons" src="https://img.shields.io/liberapay/patrons/armbian?logo=liberapay&style=for-the-badge"></a>
+<a href=https://armbian.com/download><img alt="Armbian Linux stable" src="https://img.shields.io/badge/dynamic/json?label=Armbian%20Linux%20current&query=CURRENT&color=f71000&cacheSeconds=600&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Farmbian%2Fscripts%2Freleases%2Fdownload%2Fstatus%2Frunners_capacity.json"></a>
+<a href=https://github.com/armbian/community><img alt="Armbian Linux rolling" src="https://img.shields.io/badge/dynamic/json?label=Armbian%20Linux%20edge&query=EDGE&color=34be5b&cacheSeconds=600&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Farmbian%2Fscripts%2Freleases%2Fdownload%2Fstatus%2Frunners_capacity.json"></a>
 <br>
 </p>
 </td>
