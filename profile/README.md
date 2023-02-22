@@ -40,7 +40,7 @@ Community support for: Budgie, i3, KDE plasma, Mate, Xmonad
 </tr>
 <tr>
 <td colspan=3>
-<h3 align="center"><a href=test>How to contribute?</h3></a>
+<h3 align="center"><a href=https://github.com/armbian/build/blob/main/CONTRIBUTING.md>How to contribute?</h3></a>
 </td>
 </tr>
 
