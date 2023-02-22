@@ -35,7 +35,7 @@ Community support for: Budgie, i3, KDE plasma, Mate, Xmonad
 </tr>
 <tr>
 <td colspan=3>
-<h3 align=center><b>Custom Debian or Ubuntu images for custom hardware</b>
+<h3 align=center><b>Clean and optimized Debian / Ubuntu</b>
 </td>
 </tr>
 <tr>
