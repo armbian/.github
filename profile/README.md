@@ -2,10 +2,9 @@
 <tr>
 <td colspan=3>
 <p align="center">
-    <a href="https://www.armbian.com">
-        <img src="https://raw.githubusercontent.com/armbian/.github/master/profile/tux-two.png" width="400" alt="Armbian Linux">
-    </a><h1 align=center>Armbian</h1>
-<h3 align=center><a href=https://calendly.com/armbian/office-hours>Office hours every Wednesday</a></h3><p align=center>(for community inquiries, not for technical consultation or technical support!)</p>
+    <a href="https://www.armbian.com"><h3 align=center>
+        <img src="https://raw.githubusercontent.com/armbian/.github/master/profile/tux-three.png" alt="Armbian Linux"></a><br>
+        <a href=https://calendly.com/armbian/office-hours>Office hours every Wednesday</a></h3><p align=center>(for community inquiries, not for technical consultation or technical support!)</p>
 
 <p align="center">
 <a href=https://fosstodon.org/@armbian><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109365956768424870?domain=https%3A%2F%2Ffosstodon.org&logo=mastodon&style=for-the-badge"></a>
