@@ -28,9 +28,9 @@ Runs on Linux, Windows or Mac<br>&nbsp;
 </td>
 <td>
 <h3>Excellent for desktop</h2>
-Fully featured XFCE, Gnome or Cinnamon based desktop. 3D and video acceleration support where possible.
+Fully featured XFCE, Gnome, i3 or Cinnamon based desktop. 3D and video acceleration support where possible.
 <p><p>
-Community support for: Budgie, i3, KDE plasma, Mate, Xmonad
+Community support for: Budgie, KDE plasma, Mate, Xmonad
 </td>
 </tr>
 <tr>
