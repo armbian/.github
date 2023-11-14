@@ -1,9 +1,8 @@
 <table width=100% border=0><tr>
 <tr>
 <td colspan=3>
-<p align="center">
-    <h1 align=center>
-        <b>Armbian<br></b></h1>
+<h2 align="center">Welcome to the <a href="https://www.armbian.com">Armbian</a>!</h2>
+<p align="center">          
         <h4 align=center>
     <a href="https://www.armbian.com"><img src="https://raw.githubusercontent.com/armbian/.github/master/profile/tux-three.png" alt="Armbian Linux"></a><br>
             <br>Minimal custom Debian or Ubuntu based Linux
