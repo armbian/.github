@@ -1,4 +1,4 @@
-<table width=100% border=1><tr>
+<table width=100% border=0><tr>
 <tr>
 <td colspan=3>
 <h2 align="center">Welcome to the <a href="https://www.armbian.com">Armbian</a>!</h2>
@@ -20,7 +20,7 @@ For production: Armbian Jammy or Bookworm, for testing: Noble or Trixie
 </td>
 <td>
 <h3>Simple for compiling</h3>
-Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.
+Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.<br>&nbsp;
 <p><p>
 Runs on Linux, Windows, Mac or <a href=https://github.com/marketplace/actions/rebuild-armbian>GitHub Actions</a>
 </td>
