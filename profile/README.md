@@ -1,4 +1,4 @@
-<table width=100% border=0><tr>
+<table width=100% border=1><tr>
 <tr>
 <td colspan=3>
 <h2 align="center">Welcome to the <a href="https://www.armbian.com">Armbian</a>!</h2>
@@ -13,16 +13,16 @@
 </td>
 </tr>
 <td>
-<h3>Perfect for server and IOT</h2>
-Lightweight Linux optimized for custom ARM / RISC-V or Intel hardware
-Comes with powerful ZSH or standard BASH shell.
+<h3>Perfect for server and IOT</h3>
+Lightweight Linux optimized for custom ARM / RISC-V or Intel hardware. Comes with powerful ZSH or standard BASH shell.
 <p><p>
-For production: Jammy, Bookworm. For developers: Lunar, Sid
-</td><td>
+For production: Armbian Jammy or Bookworm, for testing: Noble or Trixie
+</td>
+<td>
 <h3>Simple for compiling</h3>
-Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.<br>&nbsp;
+Extensive armhf / aarch64 / riscv64 / x86 cross-compilation development framework with native or containerized build support.
 <p><p>
-Runs on Linux, Windows or Mac<br>&nbsp;
+Runs on Linux, Windows, Mac or <a href=https://github.com/marketplace/actions/rebuild-armbian>GitHub Actions</a>
 </td>
 <td>
 <h3>Excellent for desktop</h2>
