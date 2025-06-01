@@ -6,7 +6,7 @@
 
 ### 🖧 Perfect for Server and IoT
 
-- Lightweight Linux optimized for custom ARM / RISC-V / Intel hardware  
+- Lightweight Linux OS optimized for custom ARM / RISC-V / Intel hardware  
 - **Ubuntu LTS** and **Debian stable**
 - Comes with powerful `armbian-config` system configurator, **ZSH** or standard **BASH** shell
 
