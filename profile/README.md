@@ -1,7 +1,9 @@
-<h2><p align="center">
-  Welcome to Armbian!
-</p></h2>
-
+<p align="center">
+  <h2 align=center><a href="#build-framework">
+  <img src="logo.png" alt="Armbian logo" width="50%">
+  </a>
+<br><br>
+</h2>
 
 
 ### 🖧 Perfect for Server and IoT
