@@ -1,10 +1,9 @@
 <p align="center">
-  <h2 align=center><a href="#build-framework">
+  <h2 align=center><a href="#-perfect-for-server-and-iot">
   <img src="logo.png" alt="Armbian logo" width="50%">
   </a>
 <br><br>
 </h2>
-
 
 ### 🖧 Perfect for Server and IoT
 
