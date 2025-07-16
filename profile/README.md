@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align=center><a href="#-perfect-for-server-and-iot">
+  <h2 align=center><a href="#">
   <img src="logo.png" alt="Armbian logo" width="50%">
   </a>
 <br><br>
