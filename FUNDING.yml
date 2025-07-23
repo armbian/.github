@@ -1,6 +1,6 @@
 # These are supported funding model platforms
 
 liberapay: armbian
+open_collective: armbian
 github: armbian
 custom: ["armbian.com/donate"]
-
