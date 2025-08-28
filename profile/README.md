@@ -1,8 +1,6 @@
-<p align="center">
-  <h2 align=center><a href="#">
-  <img src="logo.png" alt="Armbian logo" width="50%">
-  </a>
-<br><br>
+<h2 align="center">
+  <a href=#><img src="https://raw.githubusercontent.com/armbian/.github/master/profile/logosmall.png" alt="Armbian logo"></a>
+  <br><br>
 </h2>
 
 ### 🖧 Perfect for Server and IoT
