@@ -12,7 +12,7 @@
 
 ### 🛠️ Simple for Compiling
 
-- Powerful multi-architecture build system supporting **ARM (armhf, arm64)**, **RISC-V (riscv64)**, and **x86**
+- Powerful multi-architecture supporting **ARM (armhf, arm64)**, **RISC-V (riscv64)**, **LoongArch (loong64)**, and **x86**
 - Native builds or containerized environments — fast and flexible
 - Runs seamlessly on **Linux**, **Windows**, **macOS**, and **GitHub Actions**
 
