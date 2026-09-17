@@ -3,22 +3,26 @@
   <br><br>
 </h2>
 
-### 🖧 Perfect for Server and IoT
+<p align="center">
+  <b>Lightweight Linux for single-board computers.</b><br>
+  Debian and Ubuntu userspace with maintained kernels, on
+  <b>ARM</b>, <b>RISC-V</b>, <b>LoongArch</b> and <b>x86</b>.
+</p>
 
-- Lightweight Linux OS optimized for custom ARM / RISC-V / Intel hardware  
-- **Ubuntu LTS** and **Debian stable**
-- Comes with powerful `armbian-config` system configurator, **ZSH** or standard **BASH** shell
+<p align="center">
+  <a href="https://www.armbian.com/download/"><b>Download</b></a> &nbsp;·&nbsp;
+  <a href="https://docs.armbian.com"><b>Documentation</b></a> &nbsp;·&nbsp;
+  <a href="https://forum.armbian.com"><b>Forum</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/armbian/build"><b>Build framework</b></a> &nbsp;·&nbsp;
+  <a href="https://www.armbian.com/donate/"><b>Donate</b></a>
+</p>
 
+---
 
-### 🛠️ Simple for Compiling
+**Server and IoT** — minimal images, with `armbian-config` for networking, storage and services
 
-- Powerful multi-architecture supporting **ARM (armhf, arm64)**, **RISC-V (riscv64)**, **LoongArch (loong64)**, and **x86**
-- Native builds or containerized environments — fast and flexible
-- Runs seamlessly on **Linux**, **Windows**, **macOS**, and **GitHub Actions**
+**Desktop** — thirteen desktop environments, hardware acceleration where the SoC has it
 
+**Yours to change** — one script builds image, kernel and bootloader. Adding a board is a pull request, not a fork
 
-### 🖥️ Excellent for Desktop
-
-- Fully featured **XFCE**, **GNOME** or **Cinnamon** desktops  
-- 3D and video acceleration
-- Community support for: **Budgie**, **i3**, **KDE Plasma**, **MATE**, **Xmonad**
+**Tested on real hardware** — [a rack of boards](https://docs.armbian.com/contribute/datacenter/) flashes, boots and measures every build
