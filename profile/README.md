@@ -34,3 +34,28 @@
 **Yours to change** — one script builds image, kernel and bootloader. Adding a board is a pull request, not a fork
 
 **Tested on real hardware** — [a rack of boards](https://docs.armbian.com/contribute/datacenter/) flashes, boots and measures every build
+
+---
+
+### Where things live
+
+**Build the OS**
+- [build](https://github.com/armbian/build) — the build framework: one script makes images, kernels and bootloaders. Start here
+- [configng](https://github.com/armbian/configng) — `armbian-config`, the setup and maintenance tool on every image
+- [firmware](https://github.com/armbian/firmware) — firmware blobs for supported hardware
+- [linux-rockchip](https://github.com/armbian/linux-rockchip) — Rockchip vendor kernel
+
+**Get and install**
+- [imager](https://github.com/armbian/imager) — flash images to SD card, USB or eMMC
+- [community](https://github.com/armbian/community) — automated builds for community-maintained boards
+
+**Learn**
+- [documentation](https://github.com/armbian/documentation) — source of [docs.armbian.com](https://docs.armbian.com)
+- [website](https://github.com/armbian/website) — armbian.com, imager.armbian.com and the public API
+
+**Behind the scenes**
+- [ci](https://github.com/armbian/ci) — builds and publishes every image
+- [armbian.github.io](https://github.com/armbian/armbian.github.io) — automation and the data behind our services
+- [external](https://github.com/armbian/external) — third-party packages in the Armbian APT repository
+- [cve](https://github.com/armbian/cve) — kernel security fix backports
+- [sdk](https://github.com/armbian/sdk) — ready-made VM for Armbian development
