@@ -17,6 +17,14 @@
   <a href="https://www.armbian.com/donate/"><b>Donate</b></a>
 </p>
 
+<!-- auto:public-status -->
+<p align="center"><sub>
+  Latest stable <a href="https://docs.armbian.com/releases/26.8/"><b>26.8.3</b></a> (23 Aug 2026) &nbsp;·&nbsp;
+  next <a href="https://docs.armbian.com/releases/release-model/"><b>26.11</b></a> by the end of November 2026 &nbsp;·&nbsp;
+  <b>155</b> boards with standard support, <b>244</b> community
+</sub></p>
+<!-- /auto:public-status -->
+
 ---
 
 **Server and IoT** — minimal images, with `armbian-config` for networking, storage and services
