@@ -21,7 +21,7 @@
 <p align="center"><sub>
   Latest stable <a href="https://docs.armbian.com/releases/26.8/"><b>26.8.3</b></a> (23 Aug 2026) &nbsp;·&nbsp;
   next <a href="https://docs.armbian.com/releases/release-model/"><b>26.11</b></a> by the end of November 2026 &nbsp;·&nbsp;
-  <b>155</b> boards with standard support, <b>244</b> community
+  <b>157</b> boards with standard support, <b>247</b> community
 </sub></p>
 <!-- /auto:public-status -->
 
